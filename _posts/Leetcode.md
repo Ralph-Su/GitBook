@@ -1,3 +1,9 @@
+---
+title : 算法学习（一）：leetcode刷题
+tags: 算法
+categories: 算法
+---
+
 # 数学
 
 ## **7. 整数反转**
