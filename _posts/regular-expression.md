@@ -1,7 +1,8 @@
 ---
 title : 正则表达式学习（一）：基础知识
 tags: 正则表达式
-categories: regular expression
+date: 2020-10-09 20:08:25
+categories: regular-expression
 ---
 
 ### 基本语法

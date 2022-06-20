@@ -1,7 +1,8 @@
 ---
 title : 算法学习（一）：leetcode刷题
 tags: 算法
-categories: 算法
+date: 2020-06-29 20:08:25
+categories: algorithm
 ---
 
 # 数学
